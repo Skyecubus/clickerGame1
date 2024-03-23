@@ -1,0 +1,16 @@
+C:\Users\srwil\source\repos\clickerGame\clickerGame\obj\Debug\net8.0-windows\clickerGame.Form1.resources
+C:\Users\srwil\source\repos\clickerGame\clickerGame\obj\Debug\net8.0-windows\clickerGame.csproj.GenerateResource.cache
+C:\Users\srwil\source\repos\clickerGame\clickerGame\obj\Debug\net8.0-windows\clickerGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srwil\source\repos\clickerGame\clickerGame\obj\Debug\net8.0-windows\clickerGame.AssemblyInfoInputs.cache
+C:\Users\srwil\source\repos\clickerGame\clickerGame\obj\Debug\net8.0-windows\clickerGame.AssemblyInfo.cs
+C:\Users\srwil\source\repos\clickerGame\clickerGame\obj\Debug\net8.0-windows\clickerGame.csproj.CoreCompileInputs.cache
+C:\Users\srwil\source\repos\clickerGame\clickerGame\bin\Debug\net8.0-windows\clickerGame.exe
+C:\Users\srwil\source\repos\clickerGame\clickerGame\bin\Debug\net8.0-windows\clickerGame.deps.json
+C:\Users\srwil\source\repos\clickerGame\clickerGame\bin\Debug\net8.0-windows\clickerGame.runtimeconfig.json
+C:\Users\srwil\source\repos\clickerGame\clickerGame\bin\Debug\net8.0-windows\clickerGame.dll
+C:\Users\srwil\source\repos\clickerGame\clickerGame\bin\Debug\net8.0-windows\clickerGame.pdb
+C:\Users\srwil\source\repos\clickerGame\clickerGame\obj\Debug\net8.0-windows\clickerGame.dll
+C:\Users\srwil\source\repos\clickerGame\clickerGame\obj\Debug\net8.0-windows\refint\clickerGame.dll
+C:\Users\srwil\source\repos\clickerGame\clickerGame\obj\Debug\net8.0-windows\clickerGame.pdb
+C:\Users\srwil\source\repos\clickerGame\clickerGame\obj\Debug\net8.0-windows\clickerGame.genruntimeconfig.cache
+C:\Users\srwil\source\repos\clickerGame\clickerGame\obj\Debug\net8.0-windows\ref\clickerGame.dll
